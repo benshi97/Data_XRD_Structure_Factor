@@ -2,7 +2,7 @@ channels:
     - conda-forge
 dependencies:
     - python
-    - ase
+    - tabulate
     - pandas
     - pip
     - setuptools

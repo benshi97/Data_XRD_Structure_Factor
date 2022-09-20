@@ -1,0 +1,8 @@
+The folders CASTEP, WIEN2k and Experiment contains the structure factors found from these, given by the filename Material_Functional_formatted.CASTEP/WIEN2k/Expt. The input and output files for CASTEP and WIEN2k for the different materials and functionals can be found in the corresponding subfolders. The experimental data was taken from:
+Si - https://doi.org/10.1088/0953-8984/9/36/004
+Mg - http://aip.scitation.org/doi/10.1063/1.1622656
+MgO - https://link.aps.org/doi/10.1103/PhysRevLett.78.4777
+
+For MgO, we have also appended some data from https://doi.org/10.1107/S0567739473000240 but this was not used in this study.
+
+In the VASP folder, we give the input and output files for determining the change in (111) structure factor as a function of NxNxN FFT grid size (given by the folder 'N'). We did not include the electron density files (AECCAR0, AECCAR1 and AECCAR2) because they take up a lot of storage space. However, the output of the FFT on the structure factor for the (111) reflection is given by the file sfoutput.output in each folder.
