@@ -1,0 +1,13 @@
+ 5,'Mg_LDA.inm',       'old',    'formatted',0
+ 6,'Mg_LDA.outputm',   'unknown','formatted',0
+ 7,'Mg_LDA.inc',       'old',    'formatted',0
+10,'Mg_LDA.clmsum_old','unknown','formatted',0
+17,'Mg_LDA.clmval',    'unknown','formatted',0
+18,'Mg_LDA.clmsc',     'unknown','formatted',0
+19,'Mg_LDA.clmcor',    'unknown','formatted',0
+20,'Mg_LDA.struct',    'old',    'formatted',0
+21,'Mg_LDA.scfm',      'unknown','formatted',0
+22,'Mg_LDA.scf',       'unknown','formatted',0
+31,'Mg_LDA.broyd1',    'unknown','unformatted',164896
+32,'Mg_LDA.broyd2',    'unknown','unformatted',164896
+51,'Mg_LDA.clmsum',    'unknown','formatted',0

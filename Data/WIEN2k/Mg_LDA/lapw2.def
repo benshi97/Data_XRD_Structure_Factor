@@ -1,0 +1,25 @@
+ 2,'Mg_LDA.nsh',    'unknown','unformatted',0
+ 3,'Mg_LDA.in1',   'unknown','formatted',0
+ 4,'Mg_LDA.inso',           'unknown','formatted',0
+ 5,'Mg_LDA.in2',   'old',    'formatted',0
+ 6,'Mg_LDA.output2','unknown','formatted',0
+ 7,'Mg_LDA.vorb','unknown','formatted',0
+ 8,'Mg_LDA.clmval','unknown','formatted',0
+10,'./Mg_LDA.vector', 'unknown','unformatted',9000
+13,'Mg_LDA.recprlist',      'unknown','unformatted',9000
+14,'Mg_LDA.kgen',        'unknown','formatted',0
+16,'Mg_LDA.qtl',       'unknown','formatted',0
+17,'Mg_LDA.weightaver','unknown','formatted',0
+18,'Mg_LDA.vsp',       'old',    'formatted',0
+19,'Mg_LDA.vns',       'unknown','formatted',0
+20,'Mg_LDA.struct',         'old',    'formatted',0
+21,'Mg_LDA.scf2','unknown','formatted',0
+922,'Mg_LDA.rotlm',   'unknown',    'formatted',0
+23,'Mg_LDA.radwf',   'unknown',    'formatted',0
+26,'Mg_LDA.weight',   'unknown','formatted',0
+27,'Mg_LDA.weightdn',   'unknown','formatted',0
+29,'Mg_LDA.energydn','unknown','formatted',0
+30,'Mg_LDA.energy', 'unknown','formatted',0
+32,'Mg_LDA.qdmft',   'unknown',    'formatted',0
+34,'Mg_LDA.oubwin',   'unknown',    'formatted',0
+231,'Mg_LDA.dmftsym',   'unknown',    'formatted',0

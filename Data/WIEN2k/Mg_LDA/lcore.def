@@ -1,0 +1,11 @@
+ 5,'Mg_LDA.inc',         'old',    'formatted',0
+ 6,'Mg_LDA.outputc','unknown','formatted',0
+ 8,'Mg_LDA.vsp',    'old',    'formatted',0
+ 9,'Mg_LDA.clmcor', 'unknown','formatted',0
+19,'Mg_LDA.vns',    'unknown','formatted',0
+20,'Mg_LDA.struct',      'old',    'formatted',0         
+21,'Mg_LDA.scfc',   'unknown','formatted',0
+28,'Mg_LDA.vrespcor',   'unknown','formatted',0
+29,'Mg_LDA.corewf',   'unknown','formatted',0
+67,'Mg_LDA.lcorepot',   'unknown','formatted',0
+83,'Mg_LDA.rsplcore',   'unknown','formatted',0

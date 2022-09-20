@@ -1,0 +1,54 @@
+       Insulator, EF-inconsistency corrected
+:GAP (global)   :  0.342856 Ry =     4.665 eV (accurate value if proper k-mesh)
+         Bandranges (emin - emax) and occupancy:
+:BAN00001:   1   -4.987552   -4.986543  2.00000000
+:BAN00002:   2   -2.597761   -2.591045  2.00000000
+:BAN00003:   3   -2.594887   -2.591045  2.00000000
+:BAN00004:   4   -2.593497   -2.591045  2.00000000
+:BAN00005:   5   -0.982276   -0.858745  2.00000000
+:BAN00006:   6   -0.077419    0.267341  2.00000000
+:BAN00007:   7    0.039710    0.267341  2.00000000
+:BAN00008:   8    0.134658    0.267341  2.00000000
+:BAN00009:   9    0.610197    1.114806  0.00000000
+:BAN00010:  10    0.978944    1.411199  0.00000000
+:BAN00011:  11    1.145121    1.477690  0.00000000
+:BAN00012:  12    1.390231    1.659095  0.00000000
+:BAN00013:  13    1.539685    1.763162  0.00000000
+        Energy to separate low and high energystates:   -0.12742
+
+
+:NOE  : NUMBER OF ELECTRONS          =   16.000
+
+:FER  : F E R M I - ENERGY(TETRAH.M.)=   0.2673412151
+:GMA  : POTENTIAL AND CHARGE CUT-OFF  12.00 Ry**.5
+
+:POS001: ATOM    1 X,Y,Z = 0.00000 0.00000 0.00000  MULT= 1  ZZ= 12.000  Mg1       
+
+       LMMAX  5
+       LM=   0 0  4 0  4 4  6 0  6 4
+
+:CHA001: TOTAL VALENCE CHARGE INSIDE SPHERE   1 =   8.3890    (RMT=  1.9800 )
+:PCS001: PARTIAL CHARGES SPHERE =  1 S,P,D,F,      D-EG,D-T2G 
+:QTL001: 2.1395 6.1384 0.0912 0.0162 0.0000 0.0000 0.0000 0.0663 0.0250 0.0000 0.0000 0.0000
+        Q-s-low E-s-low   Q-p-low E-p-low   Q-d-low E-d-low   Q-f-low E-f-low
+:EPL001:  2.0127 -4.9500    5.9757 -2.5863    0.0103 -0.8750    0.0022 -0.8893
+        Q-s-hi  E-s-hi    Q-p-hi  E-p-hi    Q-d-hi  E-d-hi    Q-f-hi  E-f-hi 
+:EPH001:  0.1268  0.0237    0.1626  0.1009    0.0810  0.1438    0.0140  0.1630
+
+:POS002: ATOM    2 X,Y,Z = 0.50000 0.00000 0.00000  MULT= 1  ZZ=  8.000  O 1       
+
+       LMMAX  5
+       LM=   0 0  4 0  4 4  6 0  6 4
+
+:CHA002: TOTAL VALENCE CHARGE INSIDE SPHERE   2 =   6.2303    (RMT=  1.9800 )
+:PCS002: PARTIAL CHARGES SPHERE =  2 S,P,D,F,      D-EG,D-T2G 
+:QTL002: 1.7861 4.4296 0.0113 0.0024 0.0000 0.0000 0.0000 0.0041 0.0072 0.0000 0.0000 0.0000
+        Q-s-low E-s-low   Q-p-low E-p-low   Q-d-low E-d-low   Q-f-low E-f-low
+:EPL002:  1.7509 -0.8908    0.0062 -2.0600    0.0024 -2.5678    0.0011 -2.7273
+        Q-s-hi  E-s-hi    Q-p-hi  E-p-hi    Q-d-hi  E-d-hi    Q-f-hi  E-f-hi 
+:EPH002:  0.0352  0.0547    4.4235  0.1328    0.0090  0.1138    0.0013  0.1495
+
+:CHA  : TOTAL VALENCE CHARGE INSIDE UNIT CELL =      16.000000
+
+:SUM  : SUM OF EIGENVALUES =         -26.587315166
+

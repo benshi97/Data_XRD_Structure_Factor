@@ -1,0 +1,25 @@
+ 2,'MgO_PBE.nsh',    'unknown','unformatted',0
+ 3,'MgO_PBE.in1',   'unknown','formatted',0
+ 4,'MgO_PBE.inso',           'unknown','formatted',0
+ 5,'MgO_PBE.in2',   'old',    'formatted',0
+ 6,'MgO_PBE.output2','unknown','formatted',0
+ 7,'MgO_PBE.vorb','unknown','formatted',0
+ 8,'MgO_PBE.clmval','unknown','formatted',0
+10,'./MgO_PBE.vector', 'unknown','unformatted',9000
+13,'MgO_PBE.recprlist',      'unknown','unformatted',9000
+14,'MgO_PBE.kgen',        'unknown','formatted',0
+16,'MgO_PBE.qtl',       'unknown','formatted',0
+17,'MgO_PBE.weightaver','unknown','formatted',0
+18,'MgO_PBE.vsp',       'old',    'formatted',0
+19,'MgO_PBE.vns',       'unknown','formatted',0
+20,'MgO_PBE.struct',         'old',    'formatted',0
+21,'MgO_PBE.scf2','unknown','formatted',0
+922,'MgO_PBE.rotlm',   'unknown',    'formatted',0
+23,'MgO_PBE.radwf',   'unknown',    'formatted',0
+26,'MgO_PBE.weight',   'unknown','formatted',0
+27,'MgO_PBE.weightdn',   'unknown','formatted',0
+29,'MgO_PBE.energydn','unknown','formatted',0
+30,'MgO_PBE.energy', 'unknown','formatted',0
+32,'MgO_PBE.qdmft',   'unknown',    'formatted',0
+34,'MgO_PBE.oubwin',   'unknown',    'formatted',0
+231,'MgO_PBE.dmftsym',   'unknown',    'formatted',0

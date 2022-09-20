@@ -1,0 +1,13 @@
+ 5,'Mg_PBE.inm',       'old',    'formatted',0
+ 6,'Mg_PBE.outputm',   'unknown','formatted',0
+ 7,'Mg_PBE.inc',       'old',    'formatted',0
+10,'Mg_PBE.clmsum_old','unknown','formatted',0
+17,'Mg_PBE.clmval',    'unknown','formatted',0
+18,'Mg_PBE.clmsc',     'unknown','formatted',0
+19,'Mg_PBE.clmcor',    'unknown','formatted',0
+20,'Mg_PBE.struct',    'old',    'formatted',0
+21,'Mg_PBE.scfm',      'unknown','formatted',0
+22,'Mg_PBE.scf',       'unknown','formatted',0
+31,'Mg_PBE.broyd1',    'unknown','unformatted',164896
+32,'Mg_PBE.broyd2',    'unknown','unformatted',164896
+51,'Mg_PBE.clmsum',    'unknown','formatted',0

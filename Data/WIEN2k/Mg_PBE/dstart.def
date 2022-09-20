@@ -1,0 +1,9 @@
+ 6,'Mg_PBE.outputd','unknown','formatted',0
+13,'Mg_PBE.in0_std','unknown',    'formatted',0
+14,'Mg_PBE.in0','old',    'formatted',0
+15,'Mg_PBE.in2',   'old',    'formatted',0
+17,'Mg_PBE.in1',   'old',    'formatted',0
+16,'Mg_PBE.test',        'unknown','formatted',0
+20,'Mg_PBE.struct',      'old',    'formatted',0
+81,'Mg_PBE.rsp',    'old',    'formatted',0
+51,'Mg_PBE.clmsum',    'unknown','formatted',0

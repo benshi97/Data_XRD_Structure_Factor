@@ -1,0 +1,42 @@
+ JATOM =            1   J =            1
+  ESX  =  -1.8344474739E+02 OCC =   2.0000000000E+00  2.0000000000E+00
+   ESUM,EKIN =   -294.608423744000       0.000000000000000E+000
+ JATOM =            2   J =            1
+  ESX  =  -7.3379980580E+01 OCC =   2.0000000000E+00  2.0000000000E+00
+   ESUM,EKIN =   -478.053171134000       0.000000000000000E+000
+   ESUM =   -551.433151714000     
+ 12. ITERATION
+
+
+       DENSITY AT NUCLEUS
+        JATOM        VALENCE       SEMI-CORE          CORE           TOTAL
+:RTO001:   1       70.664753        0.000000     1081.954311     1152.619064
+:RTO002:   2       14.720364        0.000000      304.073686      318.794050
+ Allocating CLM-arrays            3  MB
+ Allocating nwav-arrays           0  MB
+ Allocating cfft-array            0  MB
+:NTO   : INTERSTITIAL CHARGE =     1.359051
+
+:NEC01: NUCLEAR AND ELECTRONIC CHARGE     20.00000    20.00000
+:OTO   : INTERSTITIAL CHARGE =     1.359043
+
+:NEC02: NUCLEAR AND ELECTRONIC CHARGE     20.00000    20.00000
+ 
+ Allocating PS:            0  MB
+ Allocating SB, Diag and YUnPred:            0  MB
+ Allocating Y,S:           1  MB
+ 
+:MIX  :   MSE1   REGULARIZATION:  3.89E-04 GREED: 0.35000  Newton 1.00  1.0723                
+:CTO   : INTERSTITIAL CHARGE =     1.359055
+
+:NEC03: NUCLEAR AND ELECTRONIC CHARGE     20.00000    20.00000
+
+:ENE  : ********** TOTAL ENERGY IN Ry =         -551.43315171
+
+  
+Time all        CPU  3.000E-02   Wall  3.879E-02 Threading   0.77 Nett  100.0 %
+Time to setup   CPU  1.000E-02   Wall  7.704E-03 Threading   1.30 Nett   19.9 %
+Time for MSEC   CPU  2.000E-02   Wall  2.929E-02 Threading   0.68 Nett   75.5 %
+Time for MSEC 1 CPU  1.000E-02   Wall  3.181E-03 Threading   3.14 Nett    8.2 %
+Time for MSEC 3 CPU  1.000E-02   Wall  9.620E-04 Threading  10.39 Nett    2.5 %
+Time for output CPU  0.000E+00   Wall  1.795E-03 Threading   0.00 Nett    4.6 %

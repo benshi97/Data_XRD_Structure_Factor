@@ -1,0 +1,11 @@
+ 5,'Si_LDA.inc',         'old',    'formatted',0
+ 6,'Si_LDA.outputc','unknown','formatted',0
+ 8,'Si_LDA.vsp',    'old',    'formatted',0
+ 9,'Si_LDA.clmcor', 'unknown','formatted',0
+19,'Si_LDA.vns',    'unknown','formatted',0
+20,'Si_LDA.struct',      'old',    'formatted',0         
+21,'Si_LDA.scfc',   'unknown','formatted',0
+28,'Si_LDA.vrespcor',   'unknown','formatted',0
+29,'Si_LDA.corewf',   'unknown','formatted',0
+67,'Si_LDA.lcorepot',   'unknown','formatted',0
+83,'Si_LDA.rsplcore',   'unknown','formatted',0

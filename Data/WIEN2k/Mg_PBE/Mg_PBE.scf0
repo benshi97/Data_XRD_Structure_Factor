@@ -1,0 +1,57 @@
+ Flat Integration
+ New Mode for Coulomb Integral
+ Consistent 3/8+Simpson combinations
+ Extension of core to zero
+ LDM version in phi
+ Fifth-order quadrature in outwin
+
+
+            ---------
+:ITE008:  8. ITERATION
+            ---------
+
+:NATO :    1 INDEPENDENT AND    2 TOTAL ATOMS IN UNITCELL
+       SUBSTANCE: Mg_convergence                                              
+
+       LATTICE                      = H   
+:POT  : POTENTIAL OPTION EX_PBE EC_PBE VX_PBE VC_PBE
+:LAT  : LATTICE CONSTANTS=  6.03295  6.03295  9.78784
+:VOL  : UNIT CELL VOLUME =     308.51548
+       MODE OF CALCULATION IS       = RELA
+       NON-SPINPOLARIZED CALCULATION
+:IFFT  : FFT-parameters:   48   48   80 Factor: 2.00
+
+
+   CONVERGENCE PARAMETER FOR PSEUDOCHARGE: NCON=  9
+   MAXIMAL VALUE OF RMT(JATOM)*ABSK(NKK) : RK  =29.99933
+
+
+:VKCOUL :  VK-COUL convergence: 0.102E-07
+       ATOMNUMBER=  1 Mg1        VCOUL-ZERO =  0.19195E+00
+:EFG001:                        EFG         =     0.03902   *10**21  V / m**2
+                               V20  TOT/SRF=     0.03379     0.00190
+                               V22  TOT/SRF=     0.00000     0.00000
+                               V22M TOT/SRF=     0.00000     0.00000
+                               V21  TOT/SRF=     0.00000     0.00000
+                               V21M TOT/SRF=     0.00000     0.00000
+
+             -0.01951    0.00000    0.00000       -0.01951    0.00000    0.00000
+              0.00000   -0.01951    0.00000        0.00000   -0.01951    0.00000
+              0.00000    0.00000    0.03902        0.00000    0.00000    0.03902
+
+         MAIN DIRECTIONS OF THE EFG   1.0000  0.0000  0.0000
+                                      0.0000  1.0000  0.0000
+                                      0.0000  0.0000  1.0000
+:ANG001:  ANGLE WITH OLD X-AXIS =         0.0
+
+:ETA001:                         ASYMM. ETA =     0.00000
+
+
+:FIT001: LUSE= 13 SIGMA OF V-XC FIT FOR ATOM  1  0.8193414E-04
+:FIT001: LUSE= 13 SIGMA OF V-XC FIT FOR ATOM  1  0.8193414E-04
+:DEN  : DENSITY INTEGRAL  =          -376.91744918   (Ry)
+       ELS_POTENTIAL_AT Z=0 and Z=0.5:   0.30198   0.30198
+       ELS_POTENTIAL_AT Y=0 and Y=0.5:   0.00000   0.00000
+:VZERO:v0,v0c,v0x  -0.25974   0.30198  -0.56171 v5,v5c,v5x  -0.25974   0.30198  -0.56171
+:VZERY:v0,v0c,v0x  -0.57517   0.00000  -0.57517 v5,v5c,v5x  -0.57517   0.00000  -0.57517
+:VZERX:v0,v0c,v0x   0.10039   0.63353  -0.53314 v5,v5c,v5x  -1.07843  -0.46000  -0.61842

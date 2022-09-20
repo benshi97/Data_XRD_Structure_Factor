@@ -1,0 +1,12 @@
+ 4,'Si_PBE.klist',          'unknown','formatted',0
+ 5,'Si_PBE.in1',   'old',    'formatted',0
+ 6,'Si_PBE.output1','unknown','formatted',0
+10,'./Si_PBE.vector', 'unknown','unformatted',9000
+11,'Si_PBE.energy', 'unknown','formatted',0
+18,'Si_PBE.vsp',       'old',    'formatted',0
+19,'Si_PBE.vns',       'unknown','formatted',0
+20,'Si_PBE.struct',         'old',    'formatted',0
+21,'Si_PBE.scf1',   'unknown','formatted',0
+55,'Si_PBE.vec',            'unknown','formatted',0
+71,'Si_PBE.nsh',    'unknown','unformatted',0
+200,'./Si_PBE.storeHinv', 'replace','unformatted',9000

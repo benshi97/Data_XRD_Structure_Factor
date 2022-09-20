@@ -1,0 +1,13 @@
+ 5,'Si_PBE.inm',       'old',    'formatted',0
+ 6,'Si_PBE.outputm',   'unknown','formatted',0
+ 7,'Si_PBE.inc',       'old',    'formatted',0
+10,'Si_PBE.clmsum_old','unknown','formatted',0
+17,'Si_PBE.clmval',    'unknown','formatted',0
+18,'Si_PBE.clmsc',     'unknown','formatted',0
+19,'Si_PBE.clmcor',    'unknown','formatted',0
+20,'Si_PBE.struct',    'old',    'formatted',0
+21,'Si_PBE.scfm',      'unknown','formatted',0
+22,'Si_PBE.scf',       'unknown','formatted',0
+31,'Si_PBE.broyd1',    'unknown','unformatted',164896
+32,'Si_PBE.broyd2',    'unknown','unformatted',164896
+51,'Si_PBE.clmsum',    'unknown','formatted',0

@@ -1,0 +1,27 @@
+ 3,'Mg_PBE.rhopw',   'unknown','formatted',0
+ 4,'Mg_PBE.inm',     'unknown','formatted',0
+ 5,'Mg_PBE.in0',     'old',    'formatted',0
+ 6,'Mg_PBE.output0', 'unknown','formatted',0
+ 7,'Mg_PBE.vorbup',  'unknown','formatted',0
+ 8,'Mg_PBE.clmsum',  'old',    'formatted',0
+ 9,'Mg_PBE.vtotal',  'unknown','formatted',0
+10,'Mg_PBE.vcoul',   'unknown','formatted',0
+11,'Mg_PBE.r2v',     'unknown','formatted',0
+12,'Mg_PBE.clmup',   'unknown','formatted',0
+13,'Mg_PBE.clmdn',   'unknown','formatted',0
+14,'Mg_PBE.mbjmix',     'unknown','formatted',0
+16,'Mg_PBE.vsp','unknown','formatted',0
+17,'Mg_PBE.vspdn',   'unknown','formatted',0
+18,'Mg_PBE.vns','unknown','formatted',0
+19,'Mg_PBE.vnsdn',   'unknown','formatted',0
+20,'Mg_PBE.struct',  'old',    'formatted',0         
+21,'Mg_PBE.scf0',    'unknown','formatted',0
+28,'Mg_PBE.vrespsum','unknown','formatted',0
+29,'Mg_PBE.vrespup', 'unknown','formatted',0
+30,'Mg_PBE.vrespdn', 'unknown','formatted',0
+50,'Mg_PBE.eeceup', 'unknown','formatted',0
+51,'Mg_PBE.eecedn', 'unknown','formatted',0
+62,'Mg_PBE.grr',    'unknown','formatted',0
+63,'/home/shi/WIEN2k/WIEN2k_19.2/SRC_lapw0/xc_funcs.h','unknown','formatted',0
+64,'Mg_PBE.r2v_nonloc',     'unknown','formatted',0
+61,'Mg_PBE.in0abp',     'unknown','formatted',0

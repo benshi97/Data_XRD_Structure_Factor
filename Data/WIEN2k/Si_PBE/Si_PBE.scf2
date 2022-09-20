@@ -1,0 +1,36 @@
+:GAP (global)   :  0.042191 Ry =     0.574 eV (accurate value if proper k-mesh)
+         Bandranges (emin - emax) and occupancy:
+:BAN00001:   1   -0.496078   -0.179637  2.00000000
+:BAN00002:   2   -0.191645    0.383490  2.00000000
+:BAN00003:   3    0.059010    0.383490  2.00000000
+:BAN00004:   4    0.100144    0.383490  2.00000000
+:BAN00005:   5    0.425681    0.697720  0.00000000
+:BAN00006:   6    0.435908    0.810416  0.00000000
+:BAN00007:   7    0.571627    1.126387  0.00000000
+:BAN00008:   8    0.629691    1.126387  0.00000000
+:BAN00009:   9    0.833333    1.198087  0.00000000
+        Energy to separate low and high energystates: -999.00000
+
+
+:NOE  : NUMBER OF ELECTRONS          =    8.000
+
+:FER  : F E R M I - ENERGY(TETRAH.M.)=   0.3835672324
+:GMA  : POTENTIAL AND CHARGE CUT-OFF  12.00 Ry**.5
+
+:POS001: ATOM    1 X,Y,Z = 0.87500 0.37500 0.37500  MULT= 2  ZZ= 14.000  Si1       
+
+       LMMAX  6
+       LM=   0 0  4 0  4 4  6 0  6 4 -3 2
+
+:CHA001: TOTAL VALENCE CHARGE INSIDE SPHERE   1 =   2.3364    (RMT=  2.2100 )
+:PCS001: PARTIAL CHARGES SPHERE =  1 S,P,D,F,      D-EG,D-T2G 
+:QTL001: 0.9434 1.2865 0.0966 0.0077 0.0000 0.0000 0.0000 0.0161 0.0805 0.0000 0.0000 0.0000
+        Q-s-low E-s-low   Q-p-low E-p-low   Q-d-low E-d-low   Q-f-low E-f-low
+:EPL001:  0.0000 10.0000    0.0000 10.0000    0.0000 10.0000    0.0000 10.0000
+        Q-s-hi  E-s-hi    Q-p-hi  E-p-hi    Q-d-hi  E-d-hi    Q-f-hi  E-f-hi 
+:EPH001:  0.9434 -0.1994    1.2865  0.1449    0.0966  0.1353    0.0077  0.0257
+
+:CHA  : TOTAL VALENCE CHARGE INSIDE UNIT CELL =       8.000000
+
+:SUM  : SUM OF EIGENVALUES =           0.086976895
+

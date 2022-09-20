@@ -1,0 +1,41 @@
+ Flat Integration
+ New Mode for Coulomb Integral
+ Consistent 3/8+Simpson combinations
+ Extension of core to zero
+ LDM version in phi
+ Fifth-order quadrature in outwin
+
+
+            ---------
+:ITE012: 12. ITERATION
+            ---------
+
+:NATO :    2 INDEPENDENT AND    2 TOTAL ATOMS IN UNITCELL
+       SUBSTANCE: MgO_convergence                                             
+
+       LATTICE                      = F   
+:POT  : POTENTIAL OPTION EX_PBE EC_PBE VX_PBE VC_PBE
+:LAT  : LATTICE CONSTANTS=  7.95801  7.95801  7.95801    1.571    1.571    1.571
+:VOL  : UNIT CELL VOLUME =     125.99528
+       MODE OF CALCULATION IS       = RELA
+       NON-SPINPOLARIZED CALCULATION
+:IFFT  : FFT-parameters:   64   64   64 Factor: 2.00
+
+
+   CONVERGENCE PARAMETER FOR PSEUDOCHARGE: NCON=  9
+   MAXIMAL VALUE OF RMT(JATOM)*ABSK(NKK) : RK  =23.60520
+
+
+:VKCOUL :  VK-COUL convergence: 0.989E-06
+       ATOMNUMBER=  1 Mg1        VCOUL-ZERO =  0.18556E+00
+       ATOMNUMBER=  2 O 1        VCOUL-ZERO =  0.46131E+00
+:FIT001: LUSE= 13 SIGMA OF V-XC FIT FOR ATOM  1  0.9677697E-02
+:FIT001: LUSE= 13 SIGMA OF V-XC FIT FOR ATOM  1  0.9677697E-02
+:FIT002: LUSE= 13 SIGMA OF V-XC FIT FOR ATOM  2  0.2064110E-03
+:FIT002: LUSE= 13 SIGMA OF V-XC FIT FOR ATOM  2  0.2064110E-03
+:DEN  : DENSITY INTEGRAL  =          -268.21286135   (Ry)
+       ELS_POTENTIAL_AT Z=0 and Z=0.5:  -1.97841  -1.97841
+       ELS_POTENTIAL_AT Y=0 and Y=0.5:   0.00000   0.00000
+:VZERO:v0,v0c,v0x  -3.20127  -1.97841  -1.22286 v5,v5c,v5x  -3.20127  -1.97841  -1.22286
+:VZERY:v0,v0c,v0x  -0.76380   0.00000  -0.76380 v5,v5c,v5x  -0.76380   0.00000  -0.76380
+:VZERX:v0,v0c,v0x  -0.76380   0.00000  -0.76380 v5,v5c,v5x  -0.76380   0.00000  -0.76380

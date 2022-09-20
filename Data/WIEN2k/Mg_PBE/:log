@@ -1,0 +1,64 @@
+Sat 26 Dec 13:48:48 GMT 2020> (x_lapw) nn -f setrmt
+>   (init_lapw) options: -b -rkmax 8 -numk 8000
+Sat 26 Dec 13:49:16 GMT 2020> (x) nn
+Sat 26 Dec 13:49:16 GMT 2020> (x) sgroup
+Sat 26 Dec 13:49:16 GMT 2020> (x) symmetry
+Sat 26 Dec 13:49:16 GMT 2020> (x) lstart -d
+Sat 26 Dec 13:49:17 GMT 2020> (x) kgen -d
+Sat 26 Dec 13:49:17 GMT 2020> (x) dstart -p
+>   (init_lapw) options: -b -ecut -5.0 -rkmax 8 -numk 8000
+Sat 26 Dec 13:50:25 GMT 2020> (x) nn
+Sat 26 Dec 13:50:25 GMT 2020> (x) sgroup
+Sat 26 Dec 13:50:25 GMT 2020> (x) symmetry
+Sat 26 Dec 13:50:25 GMT 2020> (x) lstart -d
+Sat 26 Dec 13:50:25 GMT 2020> (x) kgen -d
+Sat 26 Dec 13:50:25 GMT 2020> (x) dstart -p
+>   (init_lapw) options: -b -rkmax 8 -numk 8000
+Sat 26 Dec 13:51:31 GMT 2020> (x) nn
+Sat 26 Dec 13:51:31 GMT 2020> (x) sgroup
+Sat 26 Dec 13:51:31 GMT 2020> (x) symmetry
+Sat 26 Dec 13:51:31 GMT 2020> (x) lstart -d
+Sat 26 Dec 13:51:31 GMT 2020> (x) kgen -d
+Sat 26 Dec 13:51:32 GMT 2020> (x) dstart -p
+>   (run_lapw) options: -ec 0.00001 -NI
+Sat 26 Dec 13:52:13 GMT 2020> (x) lapw0
+Sat 26 Dec 13:52:14 GMT 2020> (x) lapw1
+Sat 26 Dec 13:52:20 GMT 2020> (x) lapw2
+Sat 26 Dec 13:52:22 GMT 2020> (x) lcore
+Sat 26 Dec 13:52:22 GMT 2020> (x) mixer
+Sat 26 Dec 13:52:22 GMT 2020> (x) lapw0
+Sat 26 Dec 13:52:23 GMT 2020> (x) lapw1
+Sat 26 Dec 13:52:28 GMT 2020> (x) lapw2
+Sat 26 Dec 13:52:31 GMT 2020> (x) lcore
+Sat 26 Dec 13:52:31 GMT 2020> (x) mixer
+Sat 26 Dec 13:52:31 GMT 2020> (x) lapw0
+Sat 26 Dec 13:52:32 GMT 2020> (x) lapw1
+Sat 26 Dec 13:52:37 GMT 2020> (x) lapw2
+Sat 26 Dec 13:52:39 GMT 2020> (x) lcore
+Sat 26 Dec 13:52:40 GMT 2020> (x) mixer
+Sat 26 Dec 13:52:40 GMT 2020> (x) lapw0
+Sat 26 Dec 13:52:40 GMT 2020> (x) lapw1
+Sat 26 Dec 13:52:46 GMT 2020> (x) lapw2
+Sat 26 Dec 13:52:48 GMT 2020> (x) lcore
+Sat 26 Dec 13:52:48 GMT 2020> (x) mixer
+Sat 26 Dec 13:52:49 GMT 2020> (x) lapw0
+Sat 26 Dec 13:52:49 GMT 2020> (x) lapw1
+Sat 26 Dec 13:52:55 GMT 2020> (x) lapw2
+Sat 26 Dec 13:52:57 GMT 2020> (x) lcore
+Sat 26 Dec 13:52:57 GMT 2020> (x) mixer
+Sat 26 Dec 13:52:58 GMT 2020> (x) lapw0
+Sat 26 Dec 13:52:58 GMT 2020> (x) lapw1
+Sat 26 Dec 13:53:04 GMT 2020> (x) lapw2
+Sat 26 Dec 13:53:06 GMT 2020> (x) lcore
+Sat 26 Dec 13:53:06 GMT 2020> (x) mixer
+Sat 26 Dec 13:53:06 GMT 2020> (x) lapw0
+Sat 26 Dec 13:53:07 GMT 2020> (x) lapw1
+Sat 26 Dec 13:53:13 GMT 2020> (x) lapw2
+Sat 26 Dec 13:53:15 GMT 2020> (x) lcore
+Sat 26 Dec 13:53:15 GMT 2020> (x) mixer
+Sat 26 Dec 13:53:15 GMT 2020> (x) lapw0
+Sat 26 Dec 13:53:16 GMT 2020> (x) lapw1
+Sat 26 Dec 13:53:22 GMT 2020> (x) lapw2
+Sat 26 Dec 13:53:24 GMT 2020> (x) lcore
+Sat 26 Dec 13:53:24 GMT 2020> (x) mixer
+Sat 26 Dec 13:57:31 GMT 2020> (x) lapw3

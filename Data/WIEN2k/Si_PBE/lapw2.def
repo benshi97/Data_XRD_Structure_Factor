@@ -1,0 +1,25 @@
+ 2,'Si_PBE.nsh',    'unknown','unformatted',0
+ 3,'Si_PBE.in1',   'unknown','formatted',0
+ 4,'Si_PBE.inso',           'unknown','formatted',0
+ 5,'Si_PBE.in2',   'old',    'formatted',0
+ 6,'Si_PBE.output2','unknown','formatted',0
+ 7,'Si_PBE.vorb','unknown','formatted',0
+ 8,'Si_PBE.clmval','unknown','formatted',0
+10,'./Si_PBE.vector', 'unknown','unformatted',9000
+13,'Si_PBE.recprlist',      'unknown','unformatted',9000
+14,'Si_PBE.kgen',        'unknown','formatted',0
+16,'Si_PBE.qtl',       'unknown','formatted',0
+17,'Si_PBE.weightaver','unknown','formatted',0
+18,'Si_PBE.vsp',       'old',    'formatted',0
+19,'Si_PBE.vns',       'unknown','formatted',0
+20,'Si_PBE.struct',         'old',    'formatted',0
+21,'Si_PBE.scf2','unknown','formatted',0
+922,'Si_PBE.rotlm',   'unknown',    'formatted',0
+23,'Si_PBE.radwf',   'unknown',    'formatted',0
+26,'Si_PBE.weight',   'unknown','formatted',0
+27,'Si_PBE.weightdn',   'unknown','formatted',0
+29,'Si_PBE.energydn','unknown','formatted',0
+30,'Si_PBE.energy', 'unknown','formatted',0
+32,'Si_PBE.qdmft',   'unknown',    'formatted',0
+34,'Si_PBE.oubwin',   'unknown',    'formatted',0
+231,'Si_PBE.dmftsym',   'unknown',    'formatted',0

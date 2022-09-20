@@ -1,0 +1,34 @@
+ NORB, SHIFT IPRINT           1  0.000000000000000E+000           0
+1                                        Mg1       
+
+     NOMBRE D ITERATIONS   1
+
+     PRECISIO N SUR LES ENERGIES 5.00E-09
+
+                       FONCTIONS D ONDE 1.00E-09
+
+                       POTENTIEL 1.00E-09
+
+ L INTEGRATION EST FAITE EN 781 POINTS LE PREMIER EST EGAL A  0.0001/12 ET LE PAS A  0.0130
+
+ DANS LE SOUS PROGRAMME RESLD LA PRECISION RELATIVE A OBTENIR SUR L ENERGIE EST  1.00E-13 ET LE NOMBRE D ESSAIS  30
+
+IDEP=  1     ICUT=  1     IPRAT=  0
+
+     ORBITALE     OCCUPATION     ENERGIE DE DEPART
+
+       1S             2.00         -3.6000000E+01
+0  LE PROCEDE DE PRATT EST UTILISE
+
+1                                        Mg1       
+
+ ITER    DVMAX          R              VN-1             VN          DEMAX      DPMAX         PN-1             PN
+ eigenwert von            1 Zustand  -46.0286866122621     
+    1   1.60E+01    9.242518E-02   -1.022484E+02   -1.182977E+02   2.79E-01  -1.00E+00    0.000000E+00    1.014044E+00
+ NOMBRE D ITERATIONS SUPERIEUR A   1
+1                                        Mg1       
+
+            ENERGIE            (R4)              (R2)              (R)               (R-1)             (R-3)
+
+  1S     -4.6028687E+01     1.3746518E-03     2.2995700E-02     1.3061505E-01     1.1628862E+01
+0     ET=-1.0441313E+02     EC= 1.6645186E+02     EE= 1.4419777E+01     EX=-6.1920724E+00     EN=-2.7909269E+02

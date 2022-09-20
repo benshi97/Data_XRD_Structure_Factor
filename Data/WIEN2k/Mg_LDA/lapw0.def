@@ -1,0 +1,27 @@
+ 3,'Mg_LDA.rhopw',   'unknown','formatted',0
+ 4,'Mg_LDA.inm',     'unknown','formatted',0
+ 5,'Mg_LDA.in0',     'old',    'formatted',0
+ 6,'Mg_LDA.output0', 'unknown','formatted',0
+ 7,'Mg_LDA.vorbup',  'unknown','formatted',0
+ 8,'Mg_LDA.clmsum',  'old',    'formatted',0
+ 9,'Mg_LDA.vtotal',  'unknown','formatted',0
+10,'Mg_LDA.vcoul',   'unknown','formatted',0
+11,'Mg_LDA.r2v',     'unknown','formatted',0
+12,'Mg_LDA.clmup',   'unknown','formatted',0
+13,'Mg_LDA.clmdn',   'unknown','formatted',0
+14,'Mg_LDA.mbjmix',     'unknown','formatted',0
+16,'Mg_LDA.vsp','unknown','formatted',0
+17,'Mg_LDA.vspdn',   'unknown','formatted',0
+18,'Mg_LDA.vns','unknown','formatted',0
+19,'Mg_LDA.vnsdn',   'unknown','formatted',0
+20,'Mg_LDA.struct',  'old',    'formatted',0         
+21,'Mg_LDA.scf0',    'unknown','formatted',0
+28,'Mg_LDA.vrespsum','unknown','formatted',0
+29,'Mg_LDA.vrespup', 'unknown','formatted',0
+30,'Mg_LDA.vrespdn', 'unknown','formatted',0
+50,'Mg_LDA.eeceup', 'unknown','formatted',0
+51,'Mg_LDA.eecedn', 'unknown','formatted',0
+62,'Mg_LDA.grr',    'unknown','formatted',0
+63,'/home/shi/WIEN2k/WIEN2k_19.2/SRC_lapw0/xc_funcs.h','unknown','formatted',0
+64,'Mg_LDA.r2v_nonloc',     'unknown','formatted',0
+61,'Mg_LDA.in0abp',     'unknown','formatted',0

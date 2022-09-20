@@ -1,0 +1,12 @@
+ 4,'Mg_LDA.klist',          'unknown','formatted',0
+ 5,'Mg_LDA.in1',   'old',    'formatted',0
+ 6,'Mg_LDA.output1','unknown','formatted',0
+10,'./Mg_LDA.vector', 'unknown','unformatted',9000
+11,'Mg_LDA.energy', 'unknown','formatted',0
+18,'Mg_LDA.vsp',       'old',    'formatted',0
+19,'Mg_LDA.vns',       'unknown','formatted',0
+20,'Mg_LDA.struct',         'old',    'formatted',0
+21,'Mg_LDA.scf1',   'unknown','formatted',0
+55,'Mg_LDA.vec',            'unknown','formatted',0
+71,'Mg_LDA.nsh',    'unknown','unformatted',0
+200,'./Mg_LDA.storeHinv', 'replace','unformatted',9000

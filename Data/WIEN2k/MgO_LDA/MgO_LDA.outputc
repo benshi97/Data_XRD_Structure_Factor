@@ -1,0 +1,68 @@
+ NORB, SHIFT IPRINT           1  0.000000000000000E+000           0
+1                                        Mg1       
+
+     NOMBRE D ITERATIONS   1
+
+     PRECISIO N SUR LES ENERGIES 5.00E-09
+
+                       FONCTIONS D ONDE 1.00E-09
+
+                       POTENTIEL 1.00E-09
+
+ L INTEGRATION EST FAITE EN 781 POINTS LE PREMIER EST EGAL A  0.0001/12 ET LE PAS A  0.0127
+
+ DANS LE SOUS PROGRAMME RESLD LA PRECISION RELATIVE A OBTENIR SUR L ENERGIE EST  1.00E-13 ET LE NOMBRE D ESSAIS  30
+
+IDEP=  1     ICUT=  1     IPRAT=  0
+
+     ORBITALE     OCCUPATION     ENERGIE DE DEPART
+
+       1S             2.00         -3.6000000E+01
+0  LE PROCEDE DE PRATT EST UTILISE
+
+1                                        Mg1       
+
+ ITER    DVMAX          R              VN-1             VN          DEMAX      DPMAX         PN-1             PN
+ eigenwert von            1 Zustand  -45.6361629856241     
+    1   1.65E+01    8.414677E-02   -1.141816E+02   -1.307065E+02   2.68E-01  -1.00E+00    0.000000E+00    1.002426E+00
+ NOMBRE D ITERATIONS SUPERIEUR A   1
+1                                        Mg1       
+
+            ENERGIE            (R4)              (R2)              (R)               (R-1)             (R-3)
+
+  1S     -4.5636163E+01     1.3942669E-03     2.3170890E-02     1.3112076E-01     1.1584549E+01
+0     ET=-1.0357990E+02     EC= 1.6625368E+02     EE= 1.4363569E+01     EX=-6.1679813E+00     EN=-2.7802917E+02
+ NORB, SHIFT IPRINT           1  0.000000000000000E+000           0
+1                                        O 1       
+
+     NOMBRE D ITERATIONS   1
+
+     PRECISIO N SUR LES ENERGIES 5.00E-09
+
+                       FONCTIONS D ONDE 1.00E-09
+
+                       POTENTIEL 1.00E-09
+
+ L INTEGRATION EST FAITE EN 781 POINTS LE PREMIER EST EGAL A  0.0001/ 8 ET LE PAS A  0.0127
+
+ DANS LE SOUS PROGRAMME RESLD LA PRECISION RELATIVE A OBTENIR SUR L ENERGIE EST  1.00E-13 ET LE NOMBRE D ESSAIS  30
+
+IDEP=  1     ICUT=  1     IPRAT=  0
+
+     ORBITALE     OCCUPATION     ENERGIE DE DEPART
+
+       1S             2.00         -1.6000000E+01
+0  LE PROCEDE DE PRATT EST UTILISE
+
+1                                        O 1       
+
+ ITER    DVMAX          R              VN-1             VN          DEMAX      DPMAX         PN-1             PN
+ eigenwert von            1 Zustand  -18.2137600979671     
+    1   7.15E+00    1.295174E-01   -4.684515E+01   -5.399987E+01   1.38E-01  -1.00E+00    0.000000E+00    1.005357E+00
+ NOMBRE D ITERATIONS SUPERIEUR A   1
+1                                        O 1       
+
+            ENERGIE            (R4)              (R2)              (R)               (R-1)             (R-3)
+
+  1S     -1.8213760E+01     7.7745517E-03     5.4438431E-02     2.0068659E-01     7.5932911E+00
+0     ET=-4.4478299E+01     EC= 7.1654489E+01     EE= 9.3962338E+00     EX=-4.0363638E+00     EN=-1.2149266E+02

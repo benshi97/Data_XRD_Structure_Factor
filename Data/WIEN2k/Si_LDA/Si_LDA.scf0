@@ -1,0 +1,38 @@
+ Flat Integration
+ New Mode for Coulomb Integral
+ Consistent 3/8+Simpson combinations
+ Extension of core to zero
+ LDM version in phi
+ Fifth-order quadrature in outwin
+
+
+            ---------
+:ITE010: 10. ITERATION
+            ---------
+
+:NATO :    1 INDEPENDENT AND    2 TOTAL ATOMS IN UNITCELL
+       SUBSTANCE: Diamond_Si                                                  
+
+       LATTICE                      = F   
+:POT  : POTENTIAL OPTION EX_LDA EC_LDA VX_LDA VC_LDA
+:LAT  : LATTICE CONSTANTS= 10.26254 10.26254 10.26254    1.571    1.571    1.571
+:VOL  : UNIT CELL VOLUME =     270.21166
+       MODE OF CALCULATION IS       = RELA
+       NON-SPINPOLARIZED CALCULATION
+:IFFT  : FFT-parameters:   80   80   80 Factor: 2.00
+
+
+   CONVERGENCE PARAMETER FOR PSEUDOCHARGE: NCON=  9
+   MAXIMAL VALUE OF RMT(JATOM)*ABSK(NKK) : RK  =26.51448
+
+
+:VKCOUL :  VK-COUL convergence: 0.755E-07
+       ATOMNUMBER=  1 Si1        VCOUL-ZERO =  0.18213E+00
+:FIT001: LUSE= 13 SIGMA OF V-XC FIT FOR ATOM  1  0.2821213E-02
+:FIT001: LUSE= 13 SIGMA OF V-XC FIT FOR ATOM  1  0.2821213E-02
+:DEN  : DENSITY INTEGRAL  =          -524.29431559   (Ry)
+       ELS_POTENTIAL_AT Z=0 and Z=0.5:   0.42239   0.42239
+       ELS_POTENTIAL_AT Y=0 and Y=0.5:   0.00000   0.00000
+:VZERO:v0,v0c,v0x  -0.27483   0.42239  -0.69722 v5,v5c,v5x  -0.27483   0.42239  -0.69722
+:VZERY:v0,v0c,v0x  -0.68396   0.00000  -0.68396 v5,v5c,v5x  -0.68396   0.00000  -0.68396
+:VZERX:v0,v0c,v0x  -0.68396   0.00000  -0.68396 v5,v5c,v5x  -0.68396   0.00000  -0.68396

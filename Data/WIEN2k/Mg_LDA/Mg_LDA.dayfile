@@ -1,0 +1,97 @@
+
+Calculating Mg_LDA in /home/shi/wien2k_calc/Final/Mg_LDA
+on kohn with PID 577177
+using WIEN2k_19.1 (Release 25/6/2019) in /home/shi/WIEN2k/WIEN2k_19.2
+
+
+    start 	(Sat 26 Dec 14:01:00 GMT 2020) with lapw0 (40/99 to go)
+
+    cycle 1 	(Sat 26 Dec 14:01:00 GMT 2020) 	(40/99 to go)
+
+>   lapw0   	(14:01:00) 0.366u 0.034s 0:00.40 97.5%	0+0k 0+352io 0pf+0w
+>   lapw1      	(14:01:01) 5.224u 0.399s 0:05.64 99.4%	0+0k 0+40808io 0pf+0w
+>   lapw2       	(14:01:07) 1.936u 0.251s 0:02.21 98.6%	0+0k 0+1944io 0pf+0w
+>   lcore 	(14:01:09) 0.012u 0.004s 0:00.01 100.0%	0+0k 0+232io 0pf+0w
+>   mixer	(14:01:09) 0.025u 0.012s 0:00.05 60.0%	0+0k 0+664io 0pf+0w
+:ENERGY convergence:  0 0.00001 0
+:CHARGE convergence:  0 0.0000 0
+ec cc and fc_conv 0 1 1
+
+    cycle 2 	(Sat 26 Dec 14:01:09 GMT 2020) 	(39/98 to go)
+
+>   lapw0   	(14:01:09) 0.364u 0.021s 0:00.38 100.0%	0+0k 0+344io 0pf+0w
+>   lapw1      	(14:01:10) 5.200u 0.407s 0:05.61 99.8%	0+0k 0+37640io 0pf+0w
+>   lapw2       	(14:01:15) 1.953u 0.229s 0:02.20 98.6%	0+0k 0+1824io 0pf+0w
+>   lcore 	(14:01:18) 0.010u 0.007s 0:00.01 100.0%	0+0k 0+232io 0pf+0w
+>   mixer	(14:01:18) 0.018u 0.022s 0:00.06 50.0%	0+0k 0+664io 0pf+0w
+:ENERGY convergence:  0 0.00001 0
+:CHARGE convergence:  0 0.0000 0
+ec cc and fc_conv 0 1 1
+
+    cycle 3 	(Sat 26 Dec 14:01:18 GMT 2020) 	(38/97 to go)
+
+>   lapw0   	(14:01:18) 0.374u 0.009s 0:00.38 97.3%	0+0k 0+344io 0pf+0w
+>   lapw1      	(14:01:18) 5.196u 0.392s 0:05.59 99.8%	0+0k 0+36856io 0pf+0w
+>   lapw2       	(14:01:24) 2.000u 0.181s 0:02.20 99.0%	0+0k 0+1784io 0pf+0w
+>   lcore 	(14:01:26) 0.008u 0.008s 0:00.01 0.0%	0+0k 0+232io 0pf+0w
+>   mixer	(14:01:26) 0.027u 0.016s 0:00.06 50.0%	0+0k 0+672io 0pf+0w
+:ENERGY convergence:  0 0.00001 .0001452250000000
+:CHARGE convergence:  0 0.0000 .0933988
+ec cc and fc_conv 0 1 1
+
+    cycle 4 	(Sat 26 Dec 14:01:27 GMT 2020) 	(37/96 to go)
+
+>   lapw0   	(14:01:27) 0.365u 0.020s 0:00.38 100.0%	0+0k 0+344io 0pf+0w
+>   lapw1      	(14:01:27) 5.199u 0.363s 0:05.56 99.8%	0+0k 0+36584io 0pf+0w
+>   lapw2       	(14:01:33) 1.935u 0.249s 0:02.20 98.6%	0+0k 0+1776io 0pf+0w
+>   lcore 	(14:01:35) 0.014u 0.003s 0:00.01 100.0%	0+0k 0+232io 0pf+0w
+>   mixer	(14:01:35) 0.015u 0.023s 0:00.06 50.0%	0+0k 0+672io 0pf+0w
+:ENERGY convergence:  0 0.00001 .0012646200000000
+:CHARGE convergence:  0 0.0000 .0335685
+ec cc and fc_conv 0 1 1
+
+    cycle 5 	(Sat 26 Dec 14:01:35 GMT 2020) 	(36/95 to go)
+
+>   lapw0   	(14:01:35) 0.367u 0.016s 0:00.38 97.3%	0+0k 0+344io 0pf+0w
+>   lapw1      	(14:01:36) 5.131u 0.434s 0:05.57 99.8%	0+0k 0+36456io 0pf+0w
+>   lapw2       	(14:01:41) 1.953u 0.233s 0:02.20 99.0%	0+0k 0+1760io 0pf+0w
+>   lcore 	(14:01:44) 0.014u 0.000s 0:00.01 100.0%	0+0k 0+232io 0pf+0w
+>   mixer	(14:01:44) 0.024u 0.016s 0:00.06 50.0%	0+0k 0+672io 0pf+0w
+:ENERGY convergence:  0 0.00001 .0006041750000000
+:CHARGE convergence:  0 0.0000 .0304076
+ec cc and fc_conv 0 1 1
+
+    cycle 6 	(Sat 26 Dec 14:01:44 GMT 2020) 	(35/94 to go)
+
+>   lapw0   	(14:01:44) 0.364u 0.022s 0:00.38 100.0%	0+0k 0+352io 0pf+0w
+>   lapw1      	(14:01:44) 5.111u 0.460s 0:05.57 100.0%	0+0k 0+36408io 0pf+0w
+>   lapw2       	(14:01:50) 1.960u 0.245s 0:02.22 99.0%	0+0k 0+1760io 0pf+0w
+>   lcore 	(14:01:52) 0.010u 0.007s 0:00.01 100.0%	0+0k 0+232io 0pf+0w
+>   mixer	(14:01:53) 0.024u 0.018s 0:00.06 50.0%	0+0k 0+672io 0pf+0w
+:ENERGY convergence:  0 0.00001 .0001021200000000
+:CHARGE convergence:  0 0.0000 .0027874
+ec cc and fc_conv 0 1 1
+
+    cycle 7 	(Sat 26 Dec 14:01:53 GMT 2020) 	(34/93 to go)
+
+>   lapw0   	(14:01:53) 0.355u 0.029s 0:00.38 97.3%	0+0k 0+344io 0pf+0w
+>   lapw1      	(14:01:53) 5.132u 0.435s 0:05.57 99.8%	0+0k 0+36392io 0pf+0w
+>   lapw2       	(14:01:59) 1.962u 0.228s 0:02.21 98.6%	0+0k 0+1768io 0pf+0w
+>   lcore 	(14:02:01) 0.008u 0.008s 0:00.01 0.0%	0+0k 0+232io 0pf+0w
+>   mixer	(14:02:01) 0.021u 0.021s 0:00.06 66.6%	0+0k 0+672io 0pf+0w
+:ENERGY convergence:  0 0.00001 .0000554300000000
+:CHARGE convergence:  0 0.0000 .0026254
+ec cc and fc_conv 0 1 1
+
+    cycle 8 	(Sat 26 Dec 14:02:01 GMT 2020) 	(33/92 to go)
+
+>   lapw0   	(14:02:02) 0.368u 0.016s 0:00.38 97.3%	0+0k 0+344io 0pf+0w
+>   lapw1      	(14:02:02) 5.125u 0.444s 0:05.57 99.8%	0+0k 0+36408io 0pf+0w
+>   lapw2       	(14:02:08) 1.954u 0.235s 0:02.21 98.6%	0+0k 0+1768io 0pf+0w
+>   lcore 	(14:02:10) 0.004u 0.012s 0:00.01 100.0%	0+0k 0+232io 0pf+0w
+>   mixer	(14:02:10) 0.024u 0.021s 0:00.06 66.6%	0+0k 0+672io 0pf+0w
+:ENERGY convergence:  1 0.00001 .0000036450000000
+:CHARGE convergence:  0 0.0000 .0002540
+ec cc and fc_conv 1 1 1
+
+>   stop

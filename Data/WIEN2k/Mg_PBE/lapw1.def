@@ -1,0 +1,12 @@
+ 4,'Mg_PBE.klist',          'unknown','formatted',0
+ 5,'Mg_PBE.in1',   'old',    'formatted',0
+ 6,'Mg_PBE.output1','unknown','formatted',0
+10,'./Mg_PBE.vector', 'unknown','unformatted',9000
+11,'Mg_PBE.energy', 'unknown','formatted',0
+18,'Mg_PBE.vsp',       'old',    'formatted',0
+19,'Mg_PBE.vns',       'unknown','formatted',0
+20,'Mg_PBE.struct',         'old',    'formatted',0
+21,'Mg_PBE.scf1',   'unknown','formatted',0
+55,'Mg_PBE.vec',            'unknown','formatted',0
+71,'Mg_PBE.nsh',    'unknown','unformatted',0
+200,'./Mg_PBE.storeHinv', 'replace','unformatted',9000

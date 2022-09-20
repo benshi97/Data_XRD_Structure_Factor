@@ -1,0 +1,27 @@
+ 3,'Si_PBE.rhopw',   'unknown','formatted',0
+ 4,'Si_PBE.inm',     'unknown','formatted',0
+ 5,'Si_PBE.in0',     'old',    'formatted',0
+ 6,'Si_PBE.output0', 'unknown','formatted',0
+ 7,'Si_PBE.vorbup',  'unknown','formatted',0
+ 8,'Si_PBE.clmsum',  'old',    'formatted',0
+ 9,'Si_PBE.vtotal',  'unknown','formatted',0
+10,'Si_PBE.vcoul',   'unknown','formatted',0
+11,'Si_PBE.r2v',     'unknown','formatted',0
+12,'Si_PBE.clmup',   'unknown','formatted',0
+13,'Si_PBE.clmdn',   'unknown','formatted',0
+14,'Si_PBE.mbjmix',     'unknown','formatted',0
+16,'Si_PBE.vsp','unknown','formatted',0
+17,'Si_PBE.vspdn',   'unknown','formatted',0
+18,'Si_PBE.vns','unknown','formatted',0
+19,'Si_PBE.vnsdn',   'unknown','formatted',0
+20,'Si_PBE.struct',  'old',    'formatted',0         
+21,'Si_PBE.scf0',    'unknown','formatted',0
+28,'Si_PBE.vrespsum','unknown','formatted',0
+29,'Si_PBE.vrespup', 'unknown','formatted',0
+30,'Si_PBE.vrespdn', 'unknown','formatted',0
+50,'Si_PBE.eeceup', 'unknown','formatted',0
+51,'Si_PBE.eecedn', 'unknown','formatted',0
+62,'Si_PBE.grr',    'unknown','formatted',0
+63,'/home/shi/WIEN2k/WIEN2k_19.2/SRC_lapw0/xc_funcs.h','unknown','formatted',0
+64,'Si_PBE.r2v_nonloc',     'unknown','formatted',0
+61,'Si_PBE.in0abp',     'unknown','formatted',0

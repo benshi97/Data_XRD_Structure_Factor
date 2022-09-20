@@ -1,0 +1,13 @@
+ 5,'Si_LDA.inm',       'old',    'formatted',0
+ 6,'Si_LDA.outputm',   'unknown','formatted',0
+ 7,'Si_LDA.inc',       'old',    'formatted',0
+10,'Si_LDA.clmsum_old','unknown','formatted',0
+17,'Si_LDA.clmval',    'unknown','formatted',0
+18,'Si_LDA.clmsc',     'unknown','formatted',0
+19,'Si_LDA.clmcor',    'unknown','formatted',0
+20,'Si_LDA.struct',    'old',    'formatted',0
+21,'Si_LDA.scfm',      'unknown','formatted',0
+22,'Si_LDA.scf',       'unknown','formatted',0
+31,'Si_LDA.broyd1',    'unknown','unformatted',164896
+32,'Si_LDA.broyd2',    'unknown','unformatted',164896
+51,'Si_LDA.clmsum',    'unknown','formatted',0

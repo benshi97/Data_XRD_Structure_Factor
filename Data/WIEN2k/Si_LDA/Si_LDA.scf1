@@ -1,0 +1,19 @@
+:LMAX-WF:   10   Non-Spherical LMAX:   4
+
+          ATOMIC SPHERE DEPENDENT PARAMETERS FOR ATOM  Si1       
+:e__0001: OVERALL ENERGY PARAMETER IS    0.1708
+          OVERALL BASIS SET ON ATOM IS LAPW
+:E0_0001: E( 0)=    0.1708
+             APW+lo
+:E1_0001: E( 1)=    0.1708
+             APW+lo
+
+       K=   0.00000   0.00000   0.00000            1
+:RKM  : MATRIX SIZE   189LOs:   8  RKM= 7.65  WEIGHT= 1.00  PGR:    
+       EIGENVALUES ARE:
+:EIG00001:      -0.5094460    0.3702951    0.3702951    0.3702951    0.5560954
+:EIG00006:       0.5560954    0.5560954    0.6033625    0.9341660    0.9405929
+:EIG00011:       0.9405929    1.1875644    1.1875644    1.1875644    1.4789085
+       ********************************************************
+
+:KPT   :      NUMBER OF K-POINTS:    72

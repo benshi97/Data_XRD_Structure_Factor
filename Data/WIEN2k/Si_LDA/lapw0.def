@@ -1,0 +1,27 @@
+ 3,'Si_LDA.rhopw',   'unknown','formatted',0
+ 4,'Si_LDA.inm',     'unknown','formatted',0
+ 5,'Si_LDA.in0',     'old',    'formatted',0
+ 6,'Si_LDA.output0', 'unknown','formatted',0
+ 7,'Si_LDA.vorbup',  'unknown','formatted',0
+ 8,'Si_LDA.clmsum',  'old',    'formatted',0
+ 9,'Si_LDA.vtotal',  'unknown','formatted',0
+10,'Si_LDA.vcoul',   'unknown','formatted',0
+11,'Si_LDA.r2v',     'unknown','formatted',0
+12,'Si_LDA.clmup',   'unknown','formatted',0
+13,'Si_LDA.clmdn',   'unknown','formatted',0
+14,'Si_LDA.mbjmix',     'unknown','formatted',0
+16,'Si_LDA.vsp','unknown','formatted',0
+17,'Si_LDA.vspdn',   'unknown','formatted',0
+18,'Si_LDA.vns','unknown','formatted',0
+19,'Si_LDA.vnsdn',   'unknown','formatted',0
+20,'Si_LDA.struct',  'old',    'formatted',0         
+21,'Si_LDA.scf0',    'unknown','formatted',0
+28,'Si_LDA.vrespsum','unknown','formatted',0
+29,'Si_LDA.vrespup', 'unknown','formatted',0
+30,'Si_LDA.vrespdn', 'unknown','formatted',0
+50,'Si_LDA.eeceup', 'unknown','formatted',0
+51,'Si_LDA.eecedn', 'unknown','formatted',0
+62,'Si_LDA.grr',    'unknown','formatted',0
+63,'/home/shi/WIEN2k/WIEN2k_19.2/SRC_lapw0/xc_funcs.h','unknown','formatted',0
+64,'Si_LDA.r2v_nonloc',     'unknown','formatted',0
+61,'Si_LDA.in0abp',     'unknown','formatted',0

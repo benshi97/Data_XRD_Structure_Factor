@@ -1,0 +1,25 @@
+%BLOCK LATTICE_CART
+ang
+ 5.4307 	 0.0        0.0
+ 0.0         5.4307 	0.0
+ 0.0         0.0     	5.4307
+%ENDBLOCK LATTICE_CART
+
+%BLOCK POSITIONS_FRAC
+Si 0.00 0.00 0.00
+Si 0.50 0.50 0.00
+Si 0.50 0.00 0.50
+Si 0.00 0.50 0.50
+Si 0.25 0.25 0.25
+Si 0.75 0.75 0.25
+Si 0.75 0.25 0.75
+Si 0.25 0.75 0.75
+%ENDBLOCK POSITIONS_FRAC
+
+KPOINTS_MP_SPACING 0.014
+
+SYMMETRY_GENERATE
+
+%block species_pot
+SOC19
+%endblock species_pot 
